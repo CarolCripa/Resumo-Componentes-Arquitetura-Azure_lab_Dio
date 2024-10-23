@@ -53,6 +53,7 @@ Um resumo "Hands-on" com prints e observações sobre alguns pontos da Arquituru
 > - As assinaturas herdam as condições aplicadas ao grupo de gerenciamento;
 > - Por uma lógica hierárquica temos os Grupos de Gerenciamento que administram as Assinaturas e os Grupos de Recursos que apoiam os Recursos.
 
-<img src="/imagens/Lab-Dio/1_Explorando-datacenters-globais-Microsoft.png">
+<img src="/home/carol/imagens/Lab-Dio/1_Explorando-datacenters-globais-Microsoft.png">
+![1_Explorando-datacenters-globais-Microsoft](https://github.com/user-attachments/assets/af618397-9c60-4b83-8407-03beb969222d)
 
 
